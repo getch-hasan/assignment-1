@@ -1,0 +1,131 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0%
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: rgb(190, 71, 28);
+}
+.heading{
+    border-left: red solid 7px;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 20px;
+}
+.linkin{
+    margin-left: 5%;
+}
+.button{
+    background-color: saddlebrown;
+    color: white;
+    padding:  15px 20px;
+    text-decoration: none;
+    width: 400;
+    border-radius: 10px;
+    
+
+}
+#about{
+    margin: 5%;
+
+}
+section{
+    display: flex;
+    padding: 5% 5%;
+    width: 50%;
+   
+    
+}
+.image{
+    width: 20%;
+    padding-right: 5%;
+  
+}
+.image img{
+    width: 400px;
+    height: 350px;
+    padding-left: 200px;
+    border-radius: 0px;
+}
+
+
+
+
+.heading{
+    width: 40%;
+} 
+.year{
+    color: tomato;
+}
+.seccond h1{
+    text-align: center;
+}
+.seccond_flaxs{
+    display: flex;
+    width: 90%;
+    padding: 3% 5%;
+   
+}
+.all_flex img{
+    height: 150px;
+    width: 150px;
+
+}
+.all_flex{
+    padding: 5%;
+    border-radius: 20px;
+    margin: 2%;
+    
+}
+.flax1{
+    background-color: thistle;
+}
+.flax2{
+  background-color: whitesmoke;
+}
+.flax3{
+background-color: wheat;
+
+}
+.third{
+    display: flex;
+    width: 90%;
+    margin: 3% 5%;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.third img{
+    width: 60%;
+    padding-left: 15%;
+   
+}
+.fourth{
+    display: flex;
+    width: 90%;
+    margin: 3% 5%;
+}
+.fourth img{
+    width: 60%;
+    padding-left: 50px;
+    width: 400px;
+    height: auto;
+    padding-right: 50pX;
+}
+#tital{
+    font-family: 'Lora', serif;
+}
+.yearcol{
+    color: red;
+    
+    font-family: 'Moon Dance', cursive;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
