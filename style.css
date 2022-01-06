@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+   
     
 }
  h1{
@@ -22,6 +23,9 @@ body{
 
 .image{
     width: 50%;
+}
+p{
+    font-family: 'Roboto Slab', serif;
 }
 
 
